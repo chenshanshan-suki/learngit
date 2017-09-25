@@ -4,3 +4,5 @@ genii  chenshans 学习了自己的小知识，并且懂得了如何创建远程
 aa shanshan
 
 Creating a new branch is quick.
+
+Creating a new branch is quick & simple.
